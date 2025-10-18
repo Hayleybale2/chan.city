@@ -689,6 +689,18 @@
       ]
    },
    {
+      "name":"CRBAchan",
+      "url":"https://ib.crba.dedyn.io/",
+      "language":[
+         "en"
+      ],
+      "software":[
+         "tinyboard",
+         "vichan",
+         "kissu-vi"
+      ]
+   },
+   {
       "name":"DFwk",
       "url":"http://chuck.dfwk.ru/",
       "language":[
